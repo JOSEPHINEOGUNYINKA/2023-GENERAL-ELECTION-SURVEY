@@ -7,7 +7,7 @@ The last 8 years have been a rollercoaster of feelings and emotions for Nigerian
 
 The presidential election in Nigeria holds every 4 years, which is at the end of a tenure. The 2023 general election was stated to hold on the 25th of May 2023, which is why the analysis was done at the time.
 
-## Probles Statement
+## Problem Statement
 The analysis was conducted to check the political willingness and readiness of Nigerians for the 2023 election exercise.
 
 ## Data Sourcing
